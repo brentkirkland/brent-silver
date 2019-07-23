@@ -26,7 +26,7 @@ const Nav = () => (
     <style jsx>{`
       :global(body) {
         margin: 0;
-        font-family: mono-space;
+        font-family: monospace;
       }
       nav {
         text-align: center;
