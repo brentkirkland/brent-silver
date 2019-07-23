@@ -1,1 +1,8 @@
-{}
+{
+  "env": {
+    "APP_ID": "ALQGD803H",
+    "CLIENT_ID": "704541467319.704557272119",
+    "CLIENT_SECRET": "@client-secret",
+    "SIGNING_SECRET": "@signing-secret"
+  }
+}
