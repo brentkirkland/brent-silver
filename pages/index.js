@@ -9,8 +9,6 @@ const Home = () => (
       <title>Home</title>
     </Head>
 
-    <Nav />
-
     <div className='hero'>
       <h1 className='title'>Welcome to Brent Silver</h1>
       <p className='description'>
