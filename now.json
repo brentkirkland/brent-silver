@@ -1,4 +1,8 @@
 {
+  "version": 2,
+  "builds": [
+    { "src": "api/post/index.js", "use": "@now/node" }
+  ],
   "env": {
     "APP_ID": "ALQGD803H",
     "CLIENT_ID": "704541467319.704557272119",
